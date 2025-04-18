@@ -37,6 +37,7 @@ export const decisions: Decision[] = [
       seaLevel: 0.0,
       temperature: 0.1,
     },
+    module: 'Module D – Quest for Fire (Unit 14)',
   },
   {
     id: 'cave-dwellings',

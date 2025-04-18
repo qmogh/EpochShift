@@ -10,6 +10,7 @@ export interface Decision {
     seaLevel: number;
     temperature: number;
   };
+  module: string; // NEW FIELD!
 }
 
 export interface Epoch {
